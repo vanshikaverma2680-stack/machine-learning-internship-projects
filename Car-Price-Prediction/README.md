@@ -35,3 +35,11 @@ Some of the features considered in the project include:
 
 - `Car_Price_Prediction.ipynb` — Complete Jupyter Notebook
 - `Car_Price_Prediction.html` — HTML version of the completed notebook
+
+## Dataset
+
+The dataset used for this project is not included in this repository.
+
+## Project Type
+
+Machine Learning / Regression
