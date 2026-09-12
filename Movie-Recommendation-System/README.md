@@ -21,3 +21,11 @@ The project includes data preprocessing, data analysis, visualization and recomm
 
 - `Movie_Recommendation.ipynb` — Complete Jupyter Notebook
 - `Movie_Recommendation.html` — HTML version of the completed notebook
+
+## Dataset
+
+The dataset used for this project is not included in this repository.
+
+## Project Type
+
+Machine Learning / Recommendation System
